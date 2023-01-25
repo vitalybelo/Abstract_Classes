@@ -22,4 +22,5 @@ public class Chandelier extends LightDevice {
         return power * Math.pow(brightness,CONSUMPTION_RATE);
     }
 
+
 }
