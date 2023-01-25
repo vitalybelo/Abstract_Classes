@@ -9,6 +9,7 @@ public abstract class LightDevice {
     public LightDevice(int power) {
         this.power = power;
     }
+
     public double getBrightness() {
         return brightness;
     }
